@@ -45,6 +45,6 @@ I work mainly with React, Node.js/Express, and integrating LLM APIs (Claude, Ope
 ### GitHub Stats
 ![Shanzay's GitHub stats](https://github-readme-stats-vhka.vercel.app/api?username=ShanzayHussain&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-vhka.vercel.app/api/top-langs/?username=ShanzayHussain&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-vhka.vercel.app/api/top-langs/?username=ShanzayHussain&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShanzayHussain&theme=radical)
