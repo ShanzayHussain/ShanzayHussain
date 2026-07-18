@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi, I'm Shanzay 👋
 
-<!--
-**ShanzayHussain/ShanzayHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on building intelligent web applications with LLMs, RAG, AI agents & ML. I enjoy building applications that connect intelligent features with solid backend architecture.
 
-Here are some ideas to get you started:
+I work mainly with React, Node.js/Express, and integrating LLM APIs (Claude, OpenAI, Groq) into web apps — with databases spanning both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Supabase, Firebase).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Socials:**
+[LinkedIn](your-link) • [Email](mailto:your-email)
+
+---
+
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square)
+
+---
+
+### GitHub Stats
+![Shanzay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShanzayHussain&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanzayHussain&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShanzayHussain&theme=radical)
