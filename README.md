@@ -5,7 +5,9 @@ Software Engineering student focused on building intelligent web applications wi
 I work mainly with React, Node.js/Express, and integrating LLM APIs (Claude, OpenAI, Groq) into web apps — with databases spanning both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Supabase, Firebase).
 
 **Socials:**
-[LinkedIn](your-link) • [Email](mailto:your-email)
+### Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanzay-hussain-437044325/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanzayhussain21212@gmail.com)
 
 ---
 
